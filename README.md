@@ -5,3 +5,5 @@ This repository includes some autonomous driving papers using the CARLA simulati
 ### 2021
 [CVPR] Multi-Modal Fusion Transformer for End-to-End Autonomous Driving. [[pdf](http://www.cvlibs.net/publications/Prakash2021CVPR.pdf)] [[code](https://github.com/autonomousvision/transfuser)]
 
+### 2019
+[CORL] Learning by Cheating. [[pdf](https://arxiv.org/pdf/1912.12294.pdf)] [[code](https://github.com/dotchen/LearningByCheating)] & 2020 CARLA Challenge Version [[code](https://github.com/bradyz/2020_CARLA_challenge)]
