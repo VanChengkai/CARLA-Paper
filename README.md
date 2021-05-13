@@ -5,6 +5,8 @@ This repository includes some autonomous driving papers using the CARLA simulati
 ### 2021
 [CVPR] Multi-Modal Fusion Transformer for End-to-End Autonomous Driving. [[pdf](http://www.cvlibs.net/publications/Prakash2021CVPR.pdf)] [[code](https://github.com/autonomousvision/transfuser)]
 
+[Arxiv] Learning to Drive from a World on Rails. [[pdf](https://arxiv.org/pdf/2105.00636.pdf)] [[code](https://github.com/dotchen/WorldOnRails)]
+
 ### 2020
 
 [CORL] Action-Based Representation Learning for Autonomous Driving. [[pdf](https://arxiv.org/pdf/2008.09417.pdf)] [[code](https://github.com/yixiao1/Action-Based-Representation-Learning)]
